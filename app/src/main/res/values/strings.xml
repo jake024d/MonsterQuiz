@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">Monster Quiz</string>
+
+    <string name="questionTxt">What is this name of this monster?</string>
+    <string name="beholderAnswerOne">Beholder</string>
+    <string name="beholderAnswerTwo">Eye Monster</string>
+    <string name="beholderAnswerThree">Floater</string>
+    <string name="beholderAnswerFour">Ocular Daemon</string>
+
+    <string name="displacerAnswerOne">Tentaline</string>
+    <string name="displacerAnswerTwo">Terrasque</string>
+    <string name="displacerAnswerThree">Displacer Beast</string>
+    <string name="displacerAnswerFour">Underdark Lion</string>
+
+    <string name="gnollAnswerOne">Howler</string>
+    <string name="gnollAnswerTwo">Dog Person</string>
+    <string name="gnollAnswerThree">Werewolf</string>
+    <string name="gnollAnswerFour">Gnoll</string>
+
+    <string name="owlAnswerOne">Bird Bear</string>
+    <string name="owlAnswerTwo">Owlbear</string>
+    <string name="owlAnswerThree">Ultra-Owl</string>
+    <string name="owlAnswerFour">Owler</string>
+
+    <string name="dwarfQuestionOne">Choose all of the Dwarven sub-races.</string>
+    <string name="dwarfAnswerOne">Mountain Dwarf</string>
+    <string name="dwarfAnswerTwo">Hill Dwarf</string>
+    <string name="dwarfAnswerThree">Duergar</string>
+
+    <string name="drizztQuestion">What is the first name of this well known hero of Faerun?</string>
+
+    <string name="submitButton">Submit Answers</string>
+
+</resources>

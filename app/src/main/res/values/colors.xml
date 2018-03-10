@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#a40e1f</color>
+    <color name="primary_text_material_dark">#fefefe</color>
+    <color name="text_color_primary">#412424</color>
+    <color name="background_material_light">#373333</color>
+    <color name="radioButton">#BEBEBE</color>
+</resources>
