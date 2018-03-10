@@ -1,0 +1,2 @@
+I would like to know how to better split apart my CardViews without using Views everywhere. There's over 80 types of Views in the app
+and Android Studio was complaining about it, saying it could slow performance.
